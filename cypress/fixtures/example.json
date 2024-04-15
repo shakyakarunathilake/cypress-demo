@@ -1,0 +1,12 @@
+{
+  "todo": [
+    { "id": 1, "title": "Wash the dishes", "completed": false, "note": "" },
+    {
+      "id": 2,
+      "title": "Do laundry",
+      "completed": true,
+      "note": "Took about 1 hour and 30 minutes"
+    },
+    { "id": 3, "title": "Cook dinner", "completed": false, "note": "" }
+  ]
+}
